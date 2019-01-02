@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class Page {
 	protected WebDriver webDriver;
-	By account=By.name("kc");
+	By account=By.id("account");
 	
 	public Page(WebDriver webDriver) {
 		
