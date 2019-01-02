@@ -10,6 +10,8 @@ public class Page {
 	public Page(WebDriver webDriver) {
 		
 		this.webDriver=webDriver;
+		
+		//comment
 	}
 	
 	public AccountPage clickMyAccount() {
