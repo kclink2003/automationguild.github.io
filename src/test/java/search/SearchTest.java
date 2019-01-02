@@ -9,5 +9,6 @@ public class SearchTest extends BaseTests {
 	@Test
 	public void searchProduct() {
 		//test
+		//comment  2
 	}
 }
