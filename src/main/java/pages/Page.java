@@ -12,6 +12,7 @@ public class Page {
 		this.webDriver=webDriver;
 		
 		//comment
+		//another comment
 	}
 	
 	public AccountPage clickMyAccount() {
